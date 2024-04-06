@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does 'npm' stand for?",
+        "options": ["Node Package Manager", "Node Program Manager", "Node Package Module", "New Project Manager"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which module in Node.js is used for creating web servers?",
+        "options": ["http", "fs", "url", "path"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which function is used to include modules in Node.js?",
+        "options": ["require()", "import()", "include()", "use()"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of the 'EventEmitter' class in Node.js?",
+        "options": ["To handle events", "To manipulate files", "To parse JSON", "To perform encryption"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is NOT a core module in Node.js?",
+        "options": ["http", "fs", "express", "os"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the default package manager for Node.js?",
+        "options": ["npm", "yarn", "bower", "pnpm"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which Node.js method is used to handle asynchronous operations?",
+        "options": ["Callback functions", "Promise", "Async/Await", "All of the above"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the role of the 'require' function in Node.js?",
+        "options": ["To import built-in modules", "To import third-party modules", "To import user-defined modules", "All of the above"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which Node.js framework is commonly used for building web applications?",
+        "options": ["Express.js", "React.js", "Angular.js", "Vue.js"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does 'I/O' stand for in Node.js?",
+        "options": ["Input/Output", "Index/Output", "Internal/Output", "Input/Operation"],
+        "correctAnswer": 0
+    }
+]
